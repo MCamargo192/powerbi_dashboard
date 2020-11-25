@@ -1,0 +1,19 @@
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+ }
+ 
+ body {
+    margin: 0px;
+    min-height: 100%;
+    width: 10
+ }
+  
+.dashboard {
+    display: block;
+    background: #000;
+    border: none;
+    height: 100vh;
+    width: 100vw;
+}
